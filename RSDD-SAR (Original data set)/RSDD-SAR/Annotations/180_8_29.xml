@@ -1,0 +1,36 @@
+<annotation>
+  <folder>RSDD-SAR</folder>
+  <filename>180_8_29.xml</filename>
+  <polarization>VV</polarization>
+  <resolution>25</resolution>
+  <size>
+    <width>512</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>ship</name>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>437.3321</cx>
+      <cy>356.3854</cy>
+      <h>39.21249771118164</h>
+      <w>7.207781791687012</w>
+      <angle>-0.7028453627691176</angle>
+    </robndbox>
+  </object>
+  <object>
+    <type>robndbox</type>
+    <name>ship</name>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>494.4426</cx>
+      <cy>487.9726</cy>
+      <h>17.233999252319336</h>
+      <w>4.5822224617004395</w>
+      <angle>-0.6380003862819145</angle>
+    </robndbox>
+  </object>
+</annotation>

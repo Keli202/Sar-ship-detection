@@ -1,0 +1,24 @@
+<annotation>
+  <folder>RSDD-SAR</folder>
+  <filename>25_44_15.xml</filename>
+  <polarization>VV</polarization>
+  <resolution>25</resolution>
+  <size>
+    <width>512</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <type>robndbox</type>
+    <name>ship</name>
+    <difficult>0</difficult>
+    <robndbox>
+      <cx>35.5229</cx>
+      <cy>32.2428</cy>
+      <h>35.536094665527344</h>
+      <w>11.16209888458252</w>
+      <angle>-0.20985336547271793</angle>
+    </robndbox>
+  </object>
+</annotation>
